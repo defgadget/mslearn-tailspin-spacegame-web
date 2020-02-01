@@ -1,0 +1,7 @@
+organization=defgadget
+projectKey=defgadget_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4292
+dashboardUrl=https://sonarcloud.io/dashboard?id=defgadget_mslearn-tailspin-spacegame-web
+ceTaskId=AW_-PNIhkjLpE1pgSQUQ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW_-PNIhkjLpE1pgSQUQ
